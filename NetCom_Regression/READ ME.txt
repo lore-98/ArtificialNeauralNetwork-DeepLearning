@@ -1,0 +1,7 @@
++++++++++++++++++++++++++READ ME+++++++++++++++++++++++
+
+In the notebook we reported also our previous models that gave us worst scores, if you want to check.
+You can find the BiLSTM model, the CNN model and the MIXED model.
+Our final model that gave us the best score, as reported at the end of the report, is the one called GRU.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
