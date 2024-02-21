@@ -1,0 +1,5 @@
++++++++++++++++++++++++++READ ME+++++++++++++++++++++++
+
+The final model that we submitted and that gave us the highest score is consegna_vgg, while in consegna_no_vgg there is the model with our previous reasoning if you want to check.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
